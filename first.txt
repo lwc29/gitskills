@@ -1,1 +1,2 @@
 第一次战斗
+Creating a new branch is quick.
